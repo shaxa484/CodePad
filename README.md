@@ -18,7 +18,7 @@ It has 2 separate printed pieces. The base where the PCB sits, and the top cover
 Made in Fusion360.
 
 ## PCB
-Here's my PCB! It was made in KiCad. The silkscreen was imported from a Figma image.
+Here's my PCB! It was made in KiCad.
 
 Schematic
 <img src=assets/schematic.jpg alt="Schematic" width="300"/>
