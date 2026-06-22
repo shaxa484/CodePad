@@ -1,6 +1,6 @@
 # CodePad
 
-CodePad is a 6 key macropad with a rotary encoder, and an OLED Display. It uses QMK firmware.
+CodePad is a 6 key macropad with a rotary encoder, and an OLED Display made for helping me while coding. It uses QMK firmware.
 
 ## Features:
 - Dual layer plastic case. 
@@ -25,6 +25,7 @@ Schematic
 
 PCB
 <img src=assets/pcb.jpg alt="Schematic" width="300"/>
+
 I didn't use any matrixes cause easier the better no need to make it complex.
 
 ## Firmware Overview
