@@ -1,0 +1,38 @@
+{
+    "keyboard_name": "CodePad",
+    "url": "https://hackpad.hackclub.com",
+    "maintainer": "Shaxriyor",
+    "width": 3,
+    "height": 3,
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28"],
+            ["GP29", "GP4",  "GP5"]
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "SW1", "x": 0, "y": 0},
+                {"label": "SW2", "x": 1, "y": 0},
+                {"label": "SW3", "x": 2, "y": 0},
+                {"label": "SW4", "x": 0, "y": 1},
+                {"label": "SW5", "x": 1, "y": 1},
+                {"label": "SW7", "x": 2, "y": 1}
+            ]
+        }
+    }
+}
