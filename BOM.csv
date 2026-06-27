@@ -1,0 +1,12 @@
+BOM
+Item #,Component,Description,Quantity,Unit Price ($),Total Price ($),Notes / Suggested Source
+1,Cherry MX Switches (10-pack),Mechanical keyboard switches (Linear/Tactile/Clicky),1,8.0,8.0,Retail pricing from keyboard vendors.
+2,DSA Keycaps (10-pack),Blank DSA profile PBT/ABS keycaps,1,6.0,6.0,Standard blank 10-pack from Amazon/AliExpress.
+3,M3x5x4 Heatset Inserts,Brass threaded inserts for plastic 3D prints (Pack of 10),1,2,2,Hobbyist packs on Amazon or electronics vendors.
+4,M3x16mm SHCS Bolts,Socket Head Cap Screws for casing fastening (Pack of 10),1,2,2,Hardware store or electronic hardware kits.
+5,"0.91"" 128x32 OLED Display",SSD1306 I2C monochrome graphic OLED screen module,1,4.5,4.5,Standard I2C display module from Amazon/Adafruit/AliExpress.
+6,EC11 Rotary Encoder,20-detent rotary encoder with integrated push-switch,1,3.0,3.0,Electronics component supplier.
+7,Aluminum Encoder Knob,Knob to fit 6mm D-shaft or knurled shaft EC11 encoder,1,2.5,2.5,Highly recommended addition for usability.
+8,XIAO RP2040,Seeed Studio XIAO development board with RP2040 chip,1,7.5,7.5,Official Seeed Studio distributors or premium hobby shops.
+9,3D Printed Case (2 Parts),Top and bottom enclosure shells fabricated via 3D printing,1,15.0,15.0,JLCPCB 3D Printing Service (SLA/Resin or Nylon SLS).
+,TOTAL ESTIMATE ,,,,50.5,Excludes potential shipping and local taxes.
